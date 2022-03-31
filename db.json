@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstName": "Harry",
+      "lastName": "mualc",
+      "email": "ask@3456gmail.com",
+      "mobile": "4587956589",
+      "salary": "23456"
+    },
+    {
+      "id": 3,
+      "firstName": "Shyam dairy",
+      "lastName": "mukeshyadav12@gmail.com",
+      "email": "mukeshyadav12@gmail.com",
+      "mobile": "9656266223",
+      "salary": "566"
+    }
+  ]
+}
